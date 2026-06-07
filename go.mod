@@ -1,3 +1,3 @@
-module github.com/Freedomwhi/cfnat
+module cfnat
 
 go 1.21
